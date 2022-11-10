@@ -92,9 +92,11 @@ You can take a look at my blog for more Next.js related content: [Blog](https://
 
 
 ## A Frontend Newsletter you'll love to help you grow as a Developer
-In order to help you grow as a developer, You can subscribe to Frontend Snacks here: https://frontendsnacks.dev/
+In order to help you grow as a developer, You can subscribe to <a href="https://frontendsnacks.dev/?utm_source=github&utm_medium=footer" target="_blank">Frontend Snacks here</a>
 - I'll teach you one code snippet visually at a time
 - Share the latest frontend news/gossip 
 - Share 1 Snack for thought
 
-<img src="https://www.frontendsnacks.dev/images/og-default.png" width="800" height="400" /> 
+<a href="https://frontendsnacks.dev/?utm_source=github&utm_medium=footer" target="_blank">
+  <img src="https://www.frontendsnacks.dev/images/og-default.png" width="800" height="400" /> 
+</a>
