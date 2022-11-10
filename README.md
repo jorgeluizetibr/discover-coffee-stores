@@ -97,4 +97,4 @@ In order to help you grow as a developer, You can subscribe to Frontend Snacks h
 - Share the latest frontend news/gossip 
 - Share 1 Snack for thought
 
-<img src="https://www.frontendsnacks.dev/images/og-default.png" width="900" height="500" /> 
+<img src="https://www.frontendsnacks.dev/images/og-default.png" width="800" height="400" /> 
