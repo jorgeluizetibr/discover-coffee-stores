@@ -91,7 +91,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 You can take a look at my blog for more Next.js related content: [Blog](https://kulkarniankita.com/blog)
 
 
-## Grow as a Developer
+## A Frontend Newsletter you'll love to help you grow as a Developer
 In order to help you grow as a developer, You can subscribe to Frontend Snacks here: https://frontendsnacks.dev/
 - I'll teach you one code snippet visually at a time
 - Share the latest frontend news/gossip 
